@@ -1,0 +1,1 @@
+Enter the principal : Enter the time : Enter number of times compounded per year : Enter rate : The calculated compound interest is : 1100.000000
